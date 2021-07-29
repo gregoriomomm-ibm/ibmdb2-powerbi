@@ -5,7 +5,7 @@ Personnal: https://github.com/gregoriomomm/
 
 Simple instructions to connect PowerBI to DB2 
 
-1. Download DB2 Drivers, in this case I would be using ![https://www.ibm.com/support/pages/download-initial-version-115-clients-and-drivers](Windows 64 bits DB2 11.5) ;
+1. Download DB2 Drivers, in this case I would be using [https://www.ibm.com/support/pages/download-initial-version-115-clients-and-drivers](Windows 64 bits DB2 11.5) ;
 2. Unpack the contents, and Run AS ADMINISTRATOR, the setup.exe. This is importat to Run with the right privileges ;
 3. To make sure that you ran correctly, look at c:\Windows\assembly and check if it has at least "IBM.Data.DB2" for your processor architecture ;
 4. Optionally, you can you user this [https://www.ibm.com/docs/en/db2/11.5?topic=net-testconn-command](testconn) command to ensure that is correctly configured ;
