@@ -17,3 +17,5 @@ Simple instructions to connect PowerBI to DB2
 10. Uncheck Navigate using full hierarchy and click ok;
 11. At this step, choose "Database" at the left panel and fill in User and password (look at the credential file for the username like bluadmin or for the username that you want, if you already customized a user, and password will be at a speciic tag called "password") 
 
+![image](https://user-images.githubusercontent.com/35934706/127484699-775c4f5f-b948-40b3-bbc5-785e14ebd674.png)
+
